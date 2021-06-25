@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.card {
+    margin: 0 auto;
+    width: 450px;
+    border: 2px black solid;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+
+#header {
+    width: 600 px;
+    height: 500 px;
+    background-color: green;
+}
+
+#gear {
+    width: 15px;
+    height: 15px;
+    margin-right: 2px;
+}
+
+#marker {
+    width: 12px;
+    height: 18px;
+    margin-right: 10px;
+}
+
+#profile {
+    width: 40px;
+    height: 40px;
+}
+
+#loc {
+    display: flex;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#link {
+    display: flex;
+    margin-top: 10px;
+}
+
+#text {
+    margin-top: 10px;
+}
